@@ -6,16 +6,13 @@
 
 ---
 
-### What I Build
+### Works
 
 | Focus | Projects |
 |-------|----------|
-| **Full-stack platforms** | [GTO Wizard Clone](https://github.com/ChonSong/gto-wizard-clone) — poker training platform with 589 passing tests, Next.js/FastAPI/Python solver, PWA, monorepo |
-| **Agent infrastructure** | [Hermes Web Computer](https://github.com/ChonSong/hermes-web-computer) — Go/Svelte/WebSocket agent platform |
-| **Green computing** | [Energy-Aware Task Router](https://github.com/ChonSong/energy-aware-task-router) — energy optimisation with Redis/SQLite, async Python, CI/CD |
-| **AI/ML tooling** | [Repo Transmute](https://github.com/ChonSong/repo-transmute) — multi-agent code migration with AST extraction, vision verification |
-| **Reliability** | [Circuit Breaker Framework](https://github.com/ChonSong/circuit-breaker-framework) — human-in-the-loop reliability library |
-| **Production ops** | [Agent OS](https://github.com/ChonSong/agent-os) — React/Express/PostgreSQL/Cloudflare, GitHub Actions CI/CD to GHCR |
+| **WebUI extensions** | [Hermes WebUI Extensions](https://github.com/ChonSong/hermes-webui-extensions) — extensions library for Hermes WebUI |
+| **GTO training** | [GTO Wizard Clone](https://github.com/ChonSong/gto-wizard-clone) — open-source poker training platform with equity calculator, CFR solver, training modes |
+| **Skill retrieval** | [Skill Retriever](https://github.com/ChonSong/skill-retriever) — AgentSkillOS-powered semantic skill retrieval for Hermes Agent |
 
 ### Stack
 
