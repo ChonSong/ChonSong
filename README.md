@@ -16,11 +16,11 @@
 
 ### Stack
 
-**Languages:** Python, Go, TypeScript, JavaScript, SQL  
-**Backend:** FastAPI, REST, gRPC, PostgreSQL, SQL Server, Redis, Docker  
-**Frontend:** React, Next.js, Vue.js, Svelte, Tailwind CSS  
+**Languages:** Python, TypeScript, JavaScript, Go, SQL  
+**Backend:** FastAPI, gRPC, PostgreSQL, Redis, Docker  
+**Frontend:** Next.js, React, Svelte, Tailwind CSS  
 **Infrastructure:** Docker Compose, Cloudflare, GitHub Actions, Linux, systemd  
-**Data/ML:** NumPy, Numba, MCCFR, DPO, RL, statistical modelling
+**Data/ML:** NumPy, MCCFR, RL, statistical modelling
 
 ### Currently
 
