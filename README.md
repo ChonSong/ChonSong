@@ -22,12 +22,6 @@
 **Infrastructure:** Docker Compose, Cloudflare, GitHub Actions, Linux, systemd  
 **Data/ML:** NumPy, MCCFR, RL, statistical modelling
 
-### Currently
-
-🎓 Completing Bachelor of Data Science — Western Sydney University  
 ⚡ Building autonomous agent systems and shipping open-source infrastructure  
-🔍 Looking for backend / platform / data engineering roles where I can own features end-to-end
-
----
 
 *"The best way to learn is to build something that matters."*
